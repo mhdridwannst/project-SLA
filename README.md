@@ -46,7 +46,7 @@ Setiap tiket melacak dua indikator SLA secara simultan melalui `TicketService`:
 
 ```bash
 # 1. Clone repository
-git clone [https://github.com/username-kamu/slaguard.git](https://github.com/username-kamu/slaguard.git)
+git clone https://github.com/mhdridwannst/project-SLA.git
 cd slaguard
 
 # 2. Install dependencies & build assets
