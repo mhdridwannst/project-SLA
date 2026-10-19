@@ -1,6 +1,6 @@
-# SlaGuard — Multi-Tenant B2B Incident & SLA Telemetry Platform
+# OneSLA — Multi-Tenant B2B Incident & SLA Telemetry Platform
 
-**SlaGuard** adalah platform _Software-as-a-Service_ (SaaS) berbasis **Laravel** untuk manajemen insiden operasional, pelacakan _Service Level Agreement_ (SLA), dan audit kepatuhan tim teknis dengan arsitektur **Single-Database Multi-Tenancy**.
+**OneSLA** adalah platform _Software-as-a-Service_ (SaaS) berbasis **Laravel** untuk manajemen insiden operasional, pelacakan _Service Level Agreement_ (SLA), dan audit kepatuhan tim teknis dengan arsitektur **Single-Database Multi-Tenancy**.
 
 ---
 
